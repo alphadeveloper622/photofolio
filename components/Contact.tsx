@@ -132,7 +132,7 @@ const Contact = () => {
             </div>
           </div>
           <Link
-            href="mailto:anhtrandev122@gmail.com"
+            href="mailto:alphadeveloper622@gmail.com"
             className="rounded-tl-[13px] font-bold hover:scale-110 transition-transform duration-700 cursor-pointer z-50 text-white px-7 py-3 text-xl bg-[rgb(43,107,233)] rounded-br-[13px]"
           >
             LET'S TALK
@@ -276,7 +276,7 @@ const Contact = () => {
                 <img src={Copy.src} className="w-7" />
               </div>
               <div className="text-center w-full font-bold text-lg">
-                {copied ? "copied" : "anhtrandev122@gmail.com"}
+                {copied ? "copied" : "alphadeveloper622@gmail.com"}
               </div>
             </div>
           </div>
