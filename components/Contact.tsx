@@ -71,7 +71,7 @@ const Contact = () => {
     },
     {
       provider: "Telegram",
-      link: "https://t.me/anhtran917",
+      link: "https://t.me/alphadeveloper11593",
     },
     {
       provider: "Discord",
