@@ -1,4 +1,4 @@
-import user from "@/assets/phuong.jfif";
+import user from "@/assets/phuong.jpg";
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 import { Carousel } from "react-responsive-carousel";
 import { FaBicycle } from "react-icons/fa";
