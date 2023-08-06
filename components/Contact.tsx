@@ -67,7 +67,7 @@ const Contact = () => {
     },
     {
       provider: "Skype",
-      link: "https://join.skype.com/invite/yArxGJY3EuLa",
+      link: "https://join.skype.com/invite/vx4mBYEfnZTl",
     },
     {
       provider: "Telegram",
@@ -75,7 +75,7 @@ const Contact = () => {
     },
     {
       provider: "Discord",
-      link: "https://discord.gg/eZ8j2emt",
+      link: "https://discord.gg/V5eX9ps6",
     },
     // {
     //   provider: "Behance",
