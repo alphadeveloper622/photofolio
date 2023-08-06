@@ -130,7 +130,7 @@ const Intro = () => {
       </div>
       <div className="flex gap-3 flex-col">
         <div className="text-white text-5xl text-center font-bold">
-          I`m Anh Tran
+          I`m Phuong Luu
         </div>
         <div className="text-[rgb(54,91,254)] text-2xl">Full Stack Engineer</div>
         <div className="text-gray-300 md:max-w-[35rem]  md:text-left text-center font-light text-xl leading-8">
