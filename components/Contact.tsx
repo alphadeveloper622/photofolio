@@ -47,7 +47,7 @@ const RedditTextField = styled((props: TextFieldProps) => (
   },
 }));
 const Contact = () => {
-  const [copied, copy, setCopied] = useCopy("anhtrandev122@gmail.com");
+  const [copied, copy, setCopied] = useCopy("alphadeveloper622@gmail.com");
   const copyText = () => {
     copy();
     setTimeout(() => {
@@ -59,11 +59,11 @@ const Contact = () => {
   const contacts = [
     {
       provider: "Github",
-      link: "https://github.com/anhtran917",
+      link: "https://github.com/alphadeveloper622",
     },
     {
       provider: "Linkedin",
-      link: "https://www.linkedin.com/in/anh-tran122",
+      link: "https://www.linkedin.com/in/phuong-luu622/",
     },
     {
       provider: "Skype",
