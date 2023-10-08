@@ -63,7 +63,8 @@ const Contact = () => {
     },
     {
       provider: "Linkedin",
-      link: "https://www.linkedin.com/in/phuong-luu622/",
+      // link: "https://www.linkedin.com/in/phuong-luu622/",
+      link: "https://www.linkedin.com/in/george-lapin",
     },
     {
       provider: "Skype",
