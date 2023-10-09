@@ -136,7 +136,7 @@ const Contact = () => {
             href="mailto:alphadeveloper622@gmail.com"
             className="rounded-tl-[13px] font-bold hover:scale-110 transition-transform duration-700 cursor-pointer z-50 text-white px-7 py-3 text-xl bg-[rgb(43,107,233)] rounded-br-[13px]"
           >
-            LET'S TALK
+            LET'S TALK ABOUT OUR FUTURE.
           </Link>
           <img
             src={ContactPattern.src}
