@@ -1,0 +1,11 @@
+#!/bin/bash
+
+BRANCH_NAME=$(git symbolic-ref --short HEAD 2>/dev/null)
+
+if [[ "$BRANCH_NAME" == "feat"* ]]; then
+    echo "Branch name is valid."
+    exit 0
+else
+    echo "Error: Branch name must start with 'feat/'."
+    exit 1
+fi
