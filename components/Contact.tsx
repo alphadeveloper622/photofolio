@@ -119,6 +119,7 @@ const Contact = () => {
   console.log(errors);
   return (
     <div
+    
       id="contact"
       className="bg-[rgb(35,40,54)] pt-[15rem] w-full pb-10 mt-[10rem]"
     >
