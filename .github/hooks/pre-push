@@ -1,0 +1,13 @@
+#!/bin/bash
+
+while read local_ref local_sha remote_ref remote_sha
+do
+    # Extract the branch name from the local reference
+    branch_name=$(basename $local_ref)
+
+    # Check if the branch name starts with "feat/"
+    if [[ "$branch_name" != feat/* ]]; then
+        echo "Error: Branch name must start with 'feat/'."
+        exit 1
+    fi
+done
